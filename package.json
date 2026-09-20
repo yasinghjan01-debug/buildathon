@@ -1,0 +1,12 @@
+﻿{
+  "name": "finova",
+  "version": "1.0.0",
+  "private": true,
+  "description": "FINOVA - AI Financial Copilot & Autonomous Revenue Recovery",
+  "scripts": {
+    "dev": "npm --prefix apps/web run dev",
+    "build": "npm --prefix apps/web run build",
+    "start": "npm --prefix apps/web start",
+    "start:web": "npm --prefix apps/web run dev"
+  }
+}
